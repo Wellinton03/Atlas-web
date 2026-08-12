@@ -18,7 +18,7 @@ const menuItems = [
   },
   {
     label: "Movimentações",
-    path: "/movimentacoes",
+    path: "/movements",
     icon: Wallet,
   },
   {
